@@ -1,4 +1,4 @@
-% KLB_fig5 (worked on with Kaitlyn Smith)
+% KLB_fig5 
 % Write a new script called KLB_fig5.m that will replicate the three plots from Figure 5. 
 % Plots the individual points for each run of the simulation 
 % for each percentage as they do in Figure 5.
